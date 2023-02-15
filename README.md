@@ -13,8 +13,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
    
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=yzyzyyzz" alt="访客统计" />
+    
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
