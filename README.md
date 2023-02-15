@@ -1,4 +1,6 @@
 ### Hi there 👋
+![QQ图片20230216003134](https://user-images.githubusercontent.com/82720456/219098341-73fee21a-db9b-4e40-88e7-3ffc487c3192.png)
+
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);HELLO!&center=true&size=27">
