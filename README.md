@@ -1,9 +1,4 @@
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;祝您今天愉快!&center=true&size=27" />
+
   
   
 
