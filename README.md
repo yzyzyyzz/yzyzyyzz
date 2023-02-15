@@ -4,16 +4,7 @@
 
   
 
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-   
-    
-  </div>
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/yzyzyyzz/yzyzyyzz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
-</div>
+  
 
 #  🙋 Hello
 
