@@ -7,8 +7,7 @@
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/yzyzyyzz/yzyzyyzz/assets/images/coding.gif" /><br>
+  
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
